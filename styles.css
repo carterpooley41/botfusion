@@ -5,16 +5,17 @@
   }
 
 :root {
-    ––trust-blue: #1e40af;
-    ––deep-trust: #1e3a8a;
-    ––excitement-orange: #f97316;
-    ––bright-orange: #ea580c;
-    ––success-green: #059669;
-    ––warning-red: #dc2626;
-    ––neutral-dark: #1f2937;
-    ––neutral-light: #f8fafc;
-    ––accent-gold: #f59e0b;
+--trust-blue: #1e40af;
+--deep-trust: #1e3a8a;
+--excitement-orange: #f97316;
+--bright-orange: #ea580c;
+--success-green: #059669;
+--warning-red: #dc2626;
+--neutral-dark: #1f2937;
+--neutral-light: #f8fafc;
+--accent-gold: #f59e0b;
 }
+
 
 body {
 font-family: ‘Inter’, -apple-system, BlinkMacSystemFont, sans-serif;
